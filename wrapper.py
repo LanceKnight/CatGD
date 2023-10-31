@@ -1,4 +1,3 @@
-from models.ChIRoNet.embedding_functions import embedConformerWithAllPaths
 import math
 import os
 import pandas as pd
