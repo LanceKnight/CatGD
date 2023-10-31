@@ -25,7 +25,7 @@ High-throughput screening (HTS) is the use of automated equipment to rapidly scr
 
 Uncompress the downloaded file and you will see several .sdf files. 
 
-Use the scripts in BCL folder to process them into BCL features. See README.md in the BCL folder for the detailed instruction. The generated BCL features file (`{dataset}.RSR.object`) should be placed one folder above this working folder. (i.e., in `../bcl-feat/`)
+Use the scripts in BCL folder to process them into BCL features. See README.md in the BCL folder for the detailed instruction. The generated BCL features file (`{dataset}.RSR.csv`) should be placed one folder above this working folder. (i.e., in `../bcl-feat/`)
 
 
 
